@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi! My name is Harit. I'm seeking Winter 2023 opportunities.
 
-<!--
-**haritkapadia/haritkapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer experienced in technical design, end-to-end development, and serverless deployment.
 
-Here are some ideas to get you started:
+I'm currently working on [I Spy Notify](https://github.com/i-spy-notify), a Linux tool that watches desktop notifications and runs scripts for each notification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work extensively with web-focused technologies, including:
+- JavaScript (TypeScript, React, Node.js)
+- Clojure (Ring, ClojureScript)
+- Python (Django, Flask, Twisted)
+- Deployment tools (Nginx, AWS, Azure, Docker)
+
+If you want to share anything about compilers, functional languages, language embedding or interoperability, or Linux news, I'd love to talk to you about it!
+
+You can reach me by email at haritkapadia@outlook.com.
