@@ -1,4 +1,4 @@
-Hi! My name is Harit. I'm seeking Winter 2023 opportunities.
+Hi! My name is Harit. I'm seeking Winter 2024 opportunities.
 
 I am a full stack web developer experienced in technical design, end-to-end development, and serverless deployment.
 
